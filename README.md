@@ -1,4 +1,4 @@
-# fvue
+# Vuesimon
 
 ## Project setup
 ```
